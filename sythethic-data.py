@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-"""
-Dark-theme Synthetic Data Generator (Tkinter)
-"""
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import csv, random, datetime, os, threading
@@ -255,4 +250,5 @@ class App(tk.Tk):
             messagebox.showerror("Error", str(e))
 
 if __name__ == "__main__":
+
     App().mainloop()

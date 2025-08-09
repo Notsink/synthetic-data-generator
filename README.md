@@ -17,7 +17,7 @@ Built with Python & Tkinter. No external dependencies except the standard librar
 ## 🚀 Quick Start
 ```bash
 # clone repo
-git clone https://github.com/YOUR_USERNAME/synthetic-data-generator.git
+git clone https://github.com/Notsink/synthetic-data-generator.git
 cd synthetic-data-generator
 
 # run

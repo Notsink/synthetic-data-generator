@@ -9,7 +9,10 @@ Built with Python & Tkinter. No external dependencies except the standard librar
 - Live preview table + CSV export  
 - Fully **dark UI** out of the box  
 
-![Screenshot](./assets/screenshot.png)
+📦 Requirements
+
+    Python 3.7+
+    No third-party packages (uses only tkinter, csv, datetime, threading)
 
 ## 🚀 Quick Start
 ```bash
@@ -19,3 +22,4 @@ cd synthetic-data-generator
 
 # run
 python sythethic-data.py
+
